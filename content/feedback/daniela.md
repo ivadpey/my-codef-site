@@ -8,5 +8,5 @@ draft: false
 
 ![daniela](../daniela.jpg)
 
-![foo](../../about/mypassion.jpg)
+
 

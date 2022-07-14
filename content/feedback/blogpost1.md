@@ -5,3 +5,5 @@ draft: false
 ---
 
 Christina shares some of her positive experience about Maria's professionalism and skills. 
+
+![bluenails](bluenails1.jpg)
